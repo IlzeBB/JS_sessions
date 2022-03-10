@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 45px;
+}
+.calc {
+  width: 350px;
+  margin: auto;
+  background-color: darkcyan;
+  padding: 40px;
+  border-radius: 15px;
+}
+.display {
+  width: 100%;
+  height: 75px;
+  border: none;
+  background-color: azure;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+input[type="button"] {
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  color: darkolivegreen;
+  border-radius: 15px;
+ 
+}
+.clear {
+    width: 50px;
+}
+

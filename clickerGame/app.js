@@ -13,7 +13,7 @@ var timer = setInterval(function () {
   if (time == 0) {
     clearInterval(timer);
     document.getElementById("timer").innerHTML = "Game is over";
-    outOfTime = true;
+   outOfTime = true;
     
   }
 }, 1000);
